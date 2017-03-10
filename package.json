@@ -1,0 +1,28 @@
+{
+  "name": "node-demo",
+  "version": "1.0.0",
+  "description": "class demo",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtpete/node-demo.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Jason",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtpete/node-demo/issues"
+  },
+  "homepage": "https://github.com/jtpete/node-demo#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.5.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.1.0"
+  }
+}
